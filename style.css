@@ -8,8 +8,22 @@ h1{
 
 p {
     color:black;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 10px;
+    text-align: left;
 }
 
+h2{
+    color: burlywood;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+}
+
+ul{
+    color: black;
+    text-align: right;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
