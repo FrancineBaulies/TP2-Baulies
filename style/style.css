@@ -52,3 +52,9 @@ article {
     padding-bottom: 10px;
     margin-bottom: 10px;
 }
+
+footer {
+    text-align: center;
+    font-size: 0.9em;
+    color: #555;
+}
