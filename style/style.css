@@ -1,5 +1,5 @@
 h1{
-    color: burlywood;
+    color: rgb(90, 56, 12);
     font-size: 50px;
     text-decoration: dotted;
     font-family: 'Times New Roman', Times, serif;
@@ -14,7 +14,7 @@ p {
 }
 
 h2{
-    color: burlywood;
+    color: rgb(90, 56, 12);
     font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
     text-align: left;
@@ -28,13 +28,13 @@ ul{
 }
 
 h3{
-    color: burlywood;
+    color: rgb(90, 56, 12);
     font-size: 30px;
     text-align: left;
 }
 
 body{
-background-color: sandybrown;
+background-color: rgb(219, 193, 169);
 margin: 0;
 padding: 0;
 }
@@ -42,7 +42,7 @@ padding: 0;
 header, nav, main, footer {
     padding: 20px;
     margin: 10px;
-    background: sandybrown;
+    background: rgb(219, 193, 169);
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
