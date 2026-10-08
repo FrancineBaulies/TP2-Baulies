@@ -1,11 +1,12 @@
 h1{
     color: burlywood;
     font-size: 30px;
-    
+    text-decoration: dotted;
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 }
 
-p li {
+p {
     color:black;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 10px;
