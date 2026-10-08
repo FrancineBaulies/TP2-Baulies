@@ -33,3 +33,22 @@ h3{
     text-align: left;
 }
 
+body{
+background-color: sandybrown;
+margin: 0;
+padding: 0;
+}
+
+header, nav, main, footer {
+    padding: 20px;
+    margin: 10px;
+    background: sandybrown;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+article {
+    border-bottom: 1px solid #572e2e;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
